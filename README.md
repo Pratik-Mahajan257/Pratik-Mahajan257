@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Pratik</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on web development projects<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with web3 and blockchain<br>🌱 I’m currently learning web3, blockchain, DevOps<br>💬 Ask me about React, content writing, web designing<br>⚡ Fun fact :- Huge anime and marvel fan.
 
